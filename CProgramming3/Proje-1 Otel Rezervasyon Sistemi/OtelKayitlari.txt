@@ -1,0 +1,12 @@
+-----------------------------------------
+Oda Numarasi:12Musterinin Adi-Soyadi:Emirhan Azgun
+Kisi Sayisi:2
+Toplam Tutar:1500.00 TL
+Giris Tarihi:21:3:2023
+Cikis Tarihi:26:3:2023-----------------------------------------
+Oda Numarasi:28
+Musterinin Adi-Soyadi:Emirhan Azgun
+Kisi Sayisi:2
+Toplam Tutar:900.00 TL
+Giris Tarihi:21:3:2023
+Cikis Tarihi:24:3:2023
